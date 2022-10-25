@@ -1,2 +1,3 @@
 This is a file. Name is file1.
 Chanchal added a line.
+Temp added one more line.
